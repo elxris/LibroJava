@@ -10,7 +10,7 @@ public class Ex7_27 {
         
         System.out.print("Los numeros siguientes: ");
         ejercicio.sobrevivientes();
-        System.out.print(". Son primos.");
+        System.out.print("son primos.");
     }
     
     public void setearEnTrue(){
