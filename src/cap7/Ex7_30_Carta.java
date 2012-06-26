@@ -13,6 +13,14 @@ public class Ex7_30_Carta {
         return cara + " de " + palo;
     }
     
+    public String cara(){
+        return cara;
+    }
+    
+    public String palo(){
+        return palo;
+    }
+    
     public int obtenerCara( String caras[] ){
         for(int i = 0; i < caras.length; i++){
             if(cara == caras[i]){
